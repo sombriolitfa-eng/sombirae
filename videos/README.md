@@ -2,4 +2,4 @@
 
 ----
 
-- 1 - 🎦 [CORTIS (코르티스) 'ACAI' Conceptual Performance Film](https://github.com/sombriolitfa-eng/sombirae/tree/main/videos/CORTIS%20%28%EC%BD%94%EB%A5%B4%ED%8B%B0%EC%8A%A4%29%20%27ACAI%27%20Conceptual%20Performance%20Film)
+- 1 - 📺 [[PREMIERE] LE SSERAFIM ルセラフィム 르세라핌 - BOOMPALA [Music Bank] ｜ KBS WORLD TV 260522](https://github.com/sombriolitfa-eng/sombirae/tree/main/videos/%5BPREMIERE%5D%20LE%20SSERAFIM%20%E3%83%AB%E3%82%BB%E3%83%A9%E3%83%95%E3%82%A3%E3%83%A0%20%EB%A5%B4%EC%84%B8%EB%9D%BC%ED%95%8C%20-%20BOOMPALA%20%5BMusic%20Bank%5D%20%EF%BD%9C%20KBS%20WORLD%20TV%20260522)
