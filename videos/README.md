@@ -2,4 +2,4 @@
 
 ----
 
-- 1 - 🎯 [[ARCH·IVE] 앜아이브 EP.5](https://github.com/sombriolitfa-eng/sombirae/tree/main/videos/%5BARCH%C2%B7IVE%5D%20%EC%95%9C%EC%95%84%EC%9D%B4%EB%B8%8C%20EP.5)
+- 1 - 🎦 [CORTIS (코르티스) 'ACAI' Conceptual Performance Film](https://github.com/sombriolitfa-eng/sombirae/tree/main/videos/CORTIS%20%28%EC%BD%94%EB%A5%B4%ED%8B%B0%EC%8A%A4%29%20%27ACAI%27%20Conceptual%20Performance%20Film)
