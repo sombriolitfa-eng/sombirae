@@ -2,4 +2,4 @@
 
 ----
 
-- 1 - 🎹 [LE SSERAFIM(르세라핌) 'BOOMPALA' (4K) ｜ MOVE TO PERFORMANCE](https://github.com/sombriolitfa-eng/sombirae/tree/main/videos/LE%20SSERAFIM%28%EB%A5%B4%EC%84%B8%EB%9D%BC%ED%95%8C%29%20%27BOOMPALA%27%20%284K%29%20%EF%BD%9C%20MOVE%20TO%20PERFORMANCE)
+- 1 - 🎤 [aespa 에스파 'WDA (Whole Different Animal) (Feat. G-DRAGON)' Performance Video](https://github.com/sombriolitfa-eng/sombirae/tree/main/videos/aespa%20%EC%97%90%EC%8A%A4%ED%8C%8C%20%27WDA%20%28Whole%20Different%20Animal%29%20%28Feat.%20G-DRAGON%29%27%20Performance%20Video)
