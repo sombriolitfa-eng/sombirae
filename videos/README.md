@@ -2,4 +2,4 @@
 
 ----
 
-- 1 - 🎞️ [aespa 에스파 'WDA (Whole Different Animal) (Feat. G-DRAGON)' Performance Video](https://github.com/sombriolitfa-eng/sombirae/tree/main/videos/aespa%20%EC%97%90%EC%8A%A4%ED%8C%8C%20%27WDA%20%28Whole%20Different%20Animal%29%20%28Feat.%20G-DRAGON%29%27%20Performance%20Video)
+- 1 - 🎮 [ALLDAY PROJECT - ‘WICKED’ PERFORMANCE VIDEO (VER. A - MOVIE SET)](https://github.com/sombriolitfa-eng/sombirae/tree/main/videos/ALLDAY%20PROJECT%20-%20%E2%80%98WICKED%E2%80%99%20PERFORMANCE%20VIDEO%20%28VER.%20A%20-%20MOVIE%20SET%29)
